@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>mh</title>
+	</head>
+	<body>
+<<<<<<< HEAD
+
+	conflict from master
+
+=======
+		confilct from mh
+>>>>>>> mh
+
+	</body>
+</html>
